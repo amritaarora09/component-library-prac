@@ -41,7 +41,7 @@ const Button = ({
       style={backgroundColor ? { backgroundColor } : {}}
       onClick={onClick}
     >
-      Hello, {label}
+      Hello WORLD, {label}
     </button>
   );
 };
